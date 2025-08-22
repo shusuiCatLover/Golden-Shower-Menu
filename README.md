@@ -15,7 +15,7 @@ Immerse your players in a rich, interactive menu experience that brings the spir
 
 ## Technologies Used
 
-- **Frontend:** [React](https://react.dev/) / [Vue](https://vuejs.org/) (choose your flavor!)
+- **Frontend:** [React](https://react.dev/)
 - **Backend:** [Node.js](https://nodejs.org/) / [Express](https://expressjs.com/)
 - **Database:** [MongoDB](https://www.mongodb.com/) / [PostgreSQL](https://www.postgresql.org/)
 
